@@ -64,7 +64,7 @@ mongod
 2. Start the backend server:
 ```bash
 cd backend
-npm start
+npm run dev
 ```
 
 3. Start the frontend development server:
@@ -106,7 +106,7 @@ The application will be available at:
 - Frontend: React.js with Vite
 - Backend: Node.js with Express.js
 - Database: MongoDB
-- Face Recognition: face-api.js
+- Face Recognition: Python
 - UI Framework: Material-UI
 - Authentication: JWT
-- OTP Service: Twilio
+- OTP Service: Nodemailer
